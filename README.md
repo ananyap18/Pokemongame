@@ -7,4 +7,9 @@ Find the game deployed here : https://pokemonbasicgame.netlify.app/
                                                                     
 The game graphics can be found on : https://itch.io/
 
+How to play?
+
+1) Navigate using AWSD keys around the map.
+2) Walk on the grass patch for a match.
+3) Select from the fight options and shoot your shot.
 
